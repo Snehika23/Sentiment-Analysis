@@ -18,9 +18,9 @@ With over **568,000 Amazon food reviews** in the dataset, the system uses TF-IDF
 
 | File | Description |
 |------|-------------|
-| `Final_Major_Project_Done_1__-_Snehika_Final.docx` | Full B.Tech project report |
-| `Twitter_sentiment_analysis.pptx` | Presentation deck (Twitter Sentiment Analysis) |
-| `11-JICR-MARCH-2024.pdf` | Published research paper (JICR, March 2024) |
+| [Final Major Project Done[1] - Snehika_Final.docx](https://github.com/Snehika23/Sentiment-Analysis/blob/main/Final%20Major%20Project%20Done%5B1%5D%20-%20Snehika_Final.docx) | Full B.Tech project report |
+| [Twitter sentiment analysis.pptx](https://github.com/Snehika23/Sentiment-Analysis/blob/main/Twitter%20sentiment%20analysis.pptx) | Presentation deck (Twitter Sentiment Analysis) |
+| [11-JICR-MARCH-2024.pdf](https://github.com/Snehika23/Sentiment-Analysis/blob/main/11-JICR-MARCH-2024.pdf) | Published research paper (JICR, March 2024) |
 
 ---
 
